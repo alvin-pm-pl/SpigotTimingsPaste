@@ -3,6 +3,10 @@
 A plugin to paste your timings to the [Spigot Timings](https://timings.spigotmc.org/) instead
 of [PMMP Timings](https://timings.pmmp.io/).
 
+For some unknown reason, the PMMP's timings does not accept non-ascii characters (or, non-utf8) and big timings data.
+
+In this case you can use this plugin to paste your timings to the Spigot Timings.
+
 # Usage
 
 1. Install the plugin
