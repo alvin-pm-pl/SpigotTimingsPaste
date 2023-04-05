@@ -7,6 +7,8 @@ For some unknown reason, the PMMP's timings does not accept non-ascii characters
 
 In this case you can use this plugin to paste your timings to the Spigot Timings.
 
+## Warning: This plugin does not work as of PM 4.18
+
 # Usage
 
 1. Install the plugin
